@@ -1,4 +1,19 @@
-h1{
-    color:red;
-    
+.card{
+    border-style:solid;
+    border: 5px solid black;
+    width:400px;
+    text-align:center;
+    margin-left: auto;
+    margin-right: auto;
 }
+  
+    .card img{
+        width: 100%;
+
+    }
+
+    .card button{
+        width: 40%;
+        padding: 10px;
+        margin: 10px;
+    }
